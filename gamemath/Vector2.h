@@ -1,6 +1,6 @@
 //
 //  Vector2.h
-//  GameMathLibrary
+//  GameMath
 //
 //  Created by River Liu on 9/1/2018.
 //  Copyright © 2018 River Liu. All rights reserved.
