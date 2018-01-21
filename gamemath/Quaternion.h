@@ -9,7 +9,11 @@
 #ifndef Quaternion_h
 #define Quaternion_h
 
-#include <math.h>
+#define _USE_MATH_DEFINES
+#ifndef M_PI
+#define M_PI 3.14159265358979323846
+#endif
+#include <cmath>
 #include "Vector3.h"
 #include "Vector4.h"
 #include "RotationMatrix.h"
